@@ -159,6 +159,5 @@ while (z > 0) {
   for (var x = z; x > 0; x--) {
     console.log(x)
   }
-  z--;
+  z--
 }
-
